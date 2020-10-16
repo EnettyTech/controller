@@ -21,7 +21,7 @@ This is fork of [@metamask/controller](https://github.com/MetaMask/controllers)
 1. Install the package.
 
 ```
-yarn add @ezdefi/controllers
+yarn add git+https://github.com/bachlongkocanh/controller.git
 ```
 
 2. Compose stores to create a data model.
